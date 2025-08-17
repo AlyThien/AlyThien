@@ -39,7 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlyThien&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Quote of the Day
+## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

@@ -4,6 +4,8 @@
 👨‍💻 **A Programmer sharing the journeys of learning code and making projects** </br>
 📚 **Studied Information Technology at Viet Nam National University HCMC - [University of Information Technology](https://en.uit.edu.vn/) (UIT)**
 
+<p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZjNmUxbDFrejdybHpnZ3FvYmxrejJ3NWN4MThzMTI0eTJqYzYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif"></p>
+
 ---
 
 ## 😉About me
